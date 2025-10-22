@@ -1,4 +1,4 @@
 # rahulchaudhary
 This is my first git repository
 <br>
-Author - Rahul Kumar
+Author - Rahul Kumar / Chaudhary
